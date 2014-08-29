@@ -18,6 +18,8 @@ Cài đặt:
 - Sau khi cài đặt việc cuối cùng chỉ đơn giản là chạy ứng dụng bằng cách:
 `npm start`
 
-Chúng ta cũng làm tương tự với các step-2, step-3 và step-4
+Chúng ta cũng làm tương tự với các step-2, step-3 và step-4, step-5, step-6 và step-7
+
+Các bạn chú khi chuyển đến step-5, các bạn phải chạy lại `npm install`
 
 Happy coding ... 
