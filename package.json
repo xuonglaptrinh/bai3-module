@@ -1,0 +1,23 @@
+{
+  "name": "bai3-module",
+  "version": "0.0.1",
+  "description": "Example module in Node.js",
+  "scripts": {
+    "start": "node net_chat_server_step_3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Company:xuonglaptrinh/bai3-module.git"
+  },
+  "keywords": [
+    "module",
+    "exports",
+    "node.js"
+  ],
+  "author": "NgaNguyenDuy-DavidNgv",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "underscore": "^1.7.0"
+  }
+}
