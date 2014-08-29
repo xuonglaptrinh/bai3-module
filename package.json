@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Example module in Node.js",
   "scripts": {
-    "start": "node main_2.js"
+    "start": "node read_file_paralel_with_async.js"
   },
   "repository": {
     "type": "git",
